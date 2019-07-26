@@ -1,0 +1,1 @@
+~aiguo/javalib/jre1.8.0_211-mac/Contents/Home/bin/java -classpath ./lib cnc01f_ps.CNC01F_PS ~aiguo/javalib/CNC01F net_NDV rt_table_DV
